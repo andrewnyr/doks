@@ -11,6 +11,11 @@
   url = "/docs/support/"
 
 [[main]]
+  name = "Docs"
+  url = "/docs"
+  weight = 10
+
+[[main]]
   name = "Dashboard"
   url = "https://dash.statusflare.com"
   weight = 10
