@@ -8,18 +8,18 @@ description = "The authoritative documentation site for Statusflare."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
-twitterSite = "henkverlinde"
-twitterCreator = "henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
+twitterSite = "statusflare_com"
+twitterCreator = "statusflare_com"
+facebookAuthor = "statusflare_com"
+facebookPublisher = "statusflare_com"
 ogLocale = "en_US"
 
 ## JSON-LD
 schemaType = "Organization"
 schemaLogo = "logo-doks.png"
-schemaTwitter = "https://twitter.com/henkverlinde"
-schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/h-enk"
+schemaTwitter = "https://twitter.com/statusflare_com"
+schemaLinkedIn = "https://www.linkedin.com/"
+schemaGitHub = "https://github.com/statusflare-com"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -40,10 +40,10 @@ footer = "Powered by <a href=\"https://pages.cloudflare.com\">Cloudflare Pages</
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = "Like Statusflare? <a class=\"alert-link\" href=\"https://www.statusflare.com\">See our website!</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com"
 editPage = false
 
 [options]
