@@ -1,14 +1,18 @@
-+++
-date = 2021-04-22T04:00:00Z
-description = ""
-images = []
-lastmod = ""
-lead = ""
-title = " Team Members"
-toc = false
-weight = nil
+---
+title: "Team Members"
+description: "Doks comes with commands for common tasks."
+lead: "Doks comes with commands for common tasks."
+date: 2021-04-22T04:00:00Z
+lastmod: 2021-04-22T04:00:00Z
+draft: false
+images: []
+menu:
+  docs:
+    parent: "prologue"
+weight: 130
+toc: true
+---
 
-+++
 **Get Started**
 
 Go to the "members" tab of the settings page. ([https://dash.statusflare.com/settings/members/](https://dash.statusflare.com/settings/members/ "https://dash.statusflare.com/settings/members/"))
