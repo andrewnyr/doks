@@ -1,14 +1,19 @@
-+++
-date = 2021-04-22T04:00:00Z
-description = ""
-images = []
-lastmod = ""
-lead = ""
-title = "Frequently Asked Questions"
-toc = false
-weight = nil
+---
+title: "Frequently Asked Questions"
+description: "Doks comes with commands for common tasks."
+lead: "Doks comes with commands for common tasks."
+date: 2021-04-22T04:00:00Z
+lastmod: 2021-04-22T04:00:00Z
+draft: false
+images: []
+menu:
+  docs:
+    parent: "prologue"
+weight: 130
+toc: true
+---
 
-+++
+
 ## Where do I sign up?
 
 Welcome, you can sign up [here](https://dash.statusflare.com)!
