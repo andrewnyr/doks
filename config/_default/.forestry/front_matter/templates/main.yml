@@ -20,5 +20,3 @@ fields:
 - type: list
   name: images
   label: images
-pages:
-- content/docs/team-members.md
