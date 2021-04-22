@@ -88,3 +88,6 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "node_modules/katex"
     target = "assets/js/vendor/katex"
+
+## Possible options "yaml", "toml" or "json"
+metaDataFormat: "yaml"
