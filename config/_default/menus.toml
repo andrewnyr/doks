@@ -4,14 +4,9 @@
   weight = 10
 
 [[main]]
-  name = "Dashboard"
-  url = "https://dash.statusflare.com"
-  weight = 10
-
-[[main]]
-  name = "Homepage"
-  url = "https://www.statusflare.com"
-  weight = 10
+  name = "Support"
+  url = "/support"
+  weight = 20
 
 [[social]]
   name = "Twitter"
