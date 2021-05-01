@@ -27,5 +27,4 @@ fields:
   name: toc
   label: toc
 pages:
-- content/docs/frequently-asked-questions.md
-- content/docs/team-members.md
+- content/docs/integrations.md
