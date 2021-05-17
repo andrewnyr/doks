@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://pages.cloudflare.com\">Cloudflare Pages</a>. Join our <a href=\"https://discord.gg/psfJKMCN4v">Discord Server</a>."
+footer = "Powered by <a href=\"https://pages.cloudflare.com\">Cloudflare Pages</a>."
 
 # Alert
 alert = false
