@@ -28,14 +28,14 @@ To create an account, select the "Google" or "Github" logo on the login screen.
 
 Note: I am using a google account for this tutorial.
 
-{{< img src="getting-started-1.png" alt="Rectangle" caption="<em>test</em>" class="border-0" >}}
+{{< img src="getting-started-1.png" alt="Rectangle" caption="<em> </em>" class="border-0" >}}
 
 
 Login with your account. If you are signing up, a Statusflare account will be automatically generated at sign-in.
 
 After sign in, you will be taken to a screen like this:
 
-{{< img src="getting-started-2.png" alt="Rectangle" caption="<em>test</em>" class="border-0" >}}
+{{< img src="getting-started-2.png" alt="Rectangle" caption="<em> </em>" class="border-0" >}}
 
 
 ***
@@ -44,7 +44,7 @@ After sign in, you will be taken to a screen like this:
 
 To add monitors to Statusflare press the orange "+ Add Monitor" button on the top right corner.
 
-{{< img src="getting-started-3.png" alt="Rectangle" caption="<em>test</em>" class="border-0" >}}
+{{< img src="getting-started-3.png" alt="Rectangle" caption="<em> </em>" class="border-0" >}}
 
 You will see a configuration windows pop up that allows you to input a few different settings.
 
@@ -56,7 +56,7 @@ You will see a configuration windows pop up that allows you to input a few diffe
 * **Worker:** Managed is currently the only option.
 * **Integrations:** Get alerted when monitor goes down.
 
-{{< img src="getting-started-4.png" alt="Rectangle" caption="<em>test</em>" class="border-0" >}}
+{{< img src="getting-started-4.png" alt="Rectangle" caption="<em> </em>" class="border-0" >}}
 
 Once you have inputted all of your settings, press "save!"
 
@@ -68,7 +68,7 @@ That's it! You have a fully functional uptime monitor! The next step is to confi
 
 Next, find the "Status Pages" link in the top menu and press on it.
 
-{{< img src="getting-started-5.png" alt="Rectangle" caption="<em>test</em>" class="border-0" >}}
+{{< img src="getting-started-5.png" alt="Rectangle" caption="<em> </em>" class="border-0" >}}
 
 A window will open with configuration settings for your status page.
 
@@ -92,7 +92,7 @@ The next settings are optional.
 * **Not Operational (Monitor):** Individual monitor message that shows an outage.
 * **Operational (Monitor):** Customize the message that shows a monitor is working fine.
 
-{{< img src="getting-started-6.png" alt="Rectangle" caption="<em>test</em>" class="border-0" >}}
+{{< img src="getting-started-6.png" alt="Rectangle" caption="<em> </em>" class="border-0" >}}
 
 When done, press the save button and a link will automatically be generated to access your status page! For the first few minutes, you might not see your monitor as the page initializes.
 
