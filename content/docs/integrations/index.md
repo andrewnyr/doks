@@ -25,6 +25,8 @@ After you select "Discord" and press configure, you will be taken to a discord l
 
 **Note: Please note that you can only add Statusflare to discord servers that you own.**
 
+{{< img src="integrations-1.png" alt="Rectangle" caption="<em> </em>" class="border-0" >}}
+
 Once authorized, you will be taken back to the Integrations page of Statusflare where you will now see your integration with a button labeled "test." You can use the button to ensure that the connection between Statusflare and your server is complete.
 
 That's it, you are officially done!
@@ -34,5 +36,7 @@ That's it, you are officially done!
 ## Slack
 
 After you select "Slack" and press configure, you will be taken to a slack login screen. Once logged in, you will be asked what workspace you would like to attach to Statusflare.
+
+{{< img src="integrations-2.png" alt="Rectangle" caption="<em> </em>" class="border-0" >}}
 
 Press the "Allow" button and you will automatically be redirected to Statusflare with a button labeled "test." You can use the button to ensure that the connection between Statusflare and your workspace is complete.

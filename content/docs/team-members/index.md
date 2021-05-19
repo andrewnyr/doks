@@ -1,7 +1,7 @@
 ---
 title: "Team Members"
-description: "Doks comes with commands for common tasks."
-lead: "Doks comes with commands for common tasks."
+description: "Allow easy access from other members of your team."
+lead: "Allow easy access from other members of your team."
 date: 2021-04-22T04:00:00Z
 lastmod: 2021-04-22T04:00:00Z
 draft: false
