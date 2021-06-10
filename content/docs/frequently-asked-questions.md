@@ -42,7 +42,7 @@ Checks are executed every 5 minutes on free plans and every minute for all paid 
 
 ## What are the IP addresses that the monitors will be checked from?
 
-None of the IPs are static as of now and will likely to be rotated several times during the beta, so if you need IP whitelisting, please reach out to us.
+Currently, the IP Addresses in use are 45.63.14.178, 104.238.186.225, 45.77.240.78, and 45.77.51.149. These IPs are subject to change.
 
 ## Are redirects followed?
 
